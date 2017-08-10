@@ -45,7 +45,10 @@
     "markdown"
   ],
   "dependencies": {
-    "ember-cli-babel": "^5.1.6"
+    "ember-cli-babel": "^5.1.6",
+    "highlightjs": "^9.6.0",
+    "marked": "~0.3.6",
+    "fastboot-transform": "^0.1.2"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
